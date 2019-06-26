@@ -1,0 +1,20 @@
+*.class
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+.classpath
+.project
+.settings/
+target/
+/.springBeans
+logs/
+temp/
+META-INF/
+.idea/
+*.iml
+*.log
+party-people-info-mgmt-ui/src/main/resources/node_modules/
+party-people-info-mgmt-ui/src/main/resources/hgdb-jdbc42.jar
